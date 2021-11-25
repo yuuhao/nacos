@@ -13,7 +13,5 @@
         "psr-4": {
             "tests\\": "tests/"
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
