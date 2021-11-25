@@ -2,6 +2,7 @@
     "name": "yoka/nacos",
     "description": "简易nacos封装",
     "type": "library",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Yoka\\Nacos\\": "src/"
@@ -13,5 +14,6 @@
             "tests\\": "tests/"
         }
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
