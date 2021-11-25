@@ -1,0 +1,17 @@
+{
+    "name": "yoka/nacos",
+    "description": "简易nacos封装",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Yoka\\Nacos\\": "src/"
+        }
+    },
+    "require": {},
+    "autoload-dev": {
+        "psr-4": {
+            "tests\\": "tests/"
+        }
+    },
+    "minimum-stability": "dev"
+}
